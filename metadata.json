@@ -1,0 +1,7 @@
+{
+  "name": "YYVEAAAYSYWYYSYYNPRINCIPALapp",
+  "description": "Uma plataforma de investimento em ativos de arte tokenizados, focada em segurança, liquidez e transparência através de garantias seguradas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
